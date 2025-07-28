@@ -5,5 +5,6 @@ ex: running this code -
 
   `  enter a valid arithmatic expression` <br>
    `   Can contain only log(num,base) cos() sec() sin() cosec() tan() cot() () + - . , * ^ / ÷ = `<br>
-`>>log(5)(90)20/3.142(27)(sin(0.12))(cot(1))(log(2, 10))=?`              
-   `  576.0367646528073`
+`>>log(5)(90)20/3.142(27)(sin(0.12))(cot(1))(log(2, 10))log(2)=?`  <br>
+`  math.log(5)*(90)*20/3.142*(27)*(math.sin(0.12))*(1/math.tan(1))*(math.log(2, 10))*math.log(2)`<br>
+   `  399.2782593179661`
